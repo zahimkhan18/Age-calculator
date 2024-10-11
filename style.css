@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(4, 48, 68);
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 160px;
+  color: #ffffff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button[type="button"] {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+
